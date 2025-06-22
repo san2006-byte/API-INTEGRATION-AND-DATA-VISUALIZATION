@@ -30,3 +30,5 @@ This assignment taught me a number of valuable lessons in addition to writing a 
 Research projects, dashboards, analytics tools, and weather apps all use this type of API integration and visualisation. I gained a practical understanding of how data moves from the internet, through Python, and into a chart that aids in understanding by doing it myself.
 
 In conclusion, this assignment assisted me in bridging the communication and coding divide. It forced me to not only gather information but also to accurately, readable, and perceptively present it. I now feel more comfortable using Python's APIs and data visualisation tools, which are critical abilities for any developer, data analyst, or engineer in the tech-driven world of today.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/432824e6-0a8e-4656-a986-7490fabc929e)
